@@ -1,4 +1,4 @@
-# password for git via terminal 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
+# password for git via terminal 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
 #install.packages ("swirl")
 library (swirl)
 
