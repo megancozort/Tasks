@@ -1,4 +1,4 @@
-# password for git via terminal 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
+# password for git via terminal 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
 #install.packages ("swirl")
 library (swirl)
 swirl()
@@ -24,3 +24,4 @@ my_div
 c(1,2,3,4)+ c(0,10)
 my_div
 1
+
