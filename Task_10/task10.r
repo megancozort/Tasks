@@ -103,5 +103,13 @@ dev.off()
 #time there is a positive correlation, making it not significant. 
 
 #extra credit 
+?phylomorphospace
+TreeZ<- pbtree(n=100)
+X <- fastBM(TreeZ, nsim=2)
+phylomorphospace(TreeZ, X, xlab="element1", ylab="element2")
+setwd('/Users/megancozort/Desktop/Evolution/Tasks/Task_10')
+pdf("EC.pdf")
+phylomorphospace(TreeZ, X, xlab="element1", ylab="element2")
+dev.off()
 
 
